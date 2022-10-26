@@ -4,3 +4,5 @@ compile.p linguist-documentation=false
 compile.p linguist-vendored=false
 .p linguist-detectable=false
 .perl linguist-detectable=false
+.asm linguist-detectable=false
+.al linguist-detectable=false
