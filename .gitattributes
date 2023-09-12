@@ -10,6 +10,7 @@ compile.p linguist-vendored=false
 .plx linguist-detectable=false
 .pm linguist-detectable=false
 .psgi linguist-detectable=false
+.fcgi linguist-detectable=false
 .t linguist-detectable=false
 .PL linguist-detectable=false
 .perl linguist-detectable=false
